@@ -12,7 +12,7 @@ int main()
    // cout << a << endl;	
     cout << " " << endl;
     
-	int b;
+	 float b;
     cout << "Masukkan nilai integer b: ";
     cin >> b;
     cout << " " << endl;
@@ -33,9 +33,9 @@ int main()
     cout <<  "a : b = ";   
     cout << a / b << endl;
     
-    cout << "a mod b = ";
+    /*cout << "a mod b = ";
     cout << a % b << endl;
-    cout << "=================" << endl;
+    cout << "=================" << endl;*/
     
     cout << " " << endl;
     
